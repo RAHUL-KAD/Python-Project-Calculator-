@@ -1,2 +1,2 @@
-# Python-Project-Calculator-
+# Python-Project(Calculator)
 This is python project, about the calculator. 
